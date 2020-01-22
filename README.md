@@ -19,6 +19,7 @@ https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos
 
 Cryptography - "Secret Writing": Enciphering and deciphering of messages.
 
+Cryptanalysis - Trying to break the code.
 
 Plaintext: A message in it's original form.
 
@@ -26,4 +27,6 @@ Ciphertext: A message in encoded form.
 
 Encryption: The process of transforming plaintext into ciphertext.
 Decryption: The process of transforming ciphertext into plaintext.
+
+Cipher: A method used for encryption.
 
