@@ -32,3 +32,11 @@ Decryption: The process of transforming ciphertext into plaintext.
 
 Cipher: A method used for encryption.
 
+# Ciper
+
+### Ceasar cipher (ROT13)
+
+A very basic substitution cipher that rotates all characters by 13 positions.
+
+https://gist.github.com/IQAndreas/030b8e91a8d9a407caa6
+
