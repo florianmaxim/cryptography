@@ -34,9 +34,18 @@ Cipher: A method used for encryption.
 
 # Ciper
 
+## Shift Cipher
+
 ### Ceasar cipher (ROT13)
 
 A very basic substitution cipher that rotates all characters by 13 positions.
 
 https://gist.github.com/IQAndreas/030b8e91a8d9a407caa6
+
+## Substitution cipher
+
+## Poly-alphabetic (Vigenère) cipher
+
+(Makes frequency analysis much more difficult)
+
 
