@@ -48,4 +48,10 @@ https://gist.github.com/IQAndreas/030b8e91a8d9a407caa6
 
 (Makes frequency analysis much more difficult)
 
+# Hasing
+
+https://www.youtube.com/watch?v=2Cg2So2js5k&t=21s
+
+https://www.youtube.com/watch?v=kmHojGMUn0Q
+
 
